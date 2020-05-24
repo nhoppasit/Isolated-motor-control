@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Lab1\Lab1 wire lab.PrjPCB
+[Project2]
+ProjectPath=..\..\..\..\My PCB Library\Arduino\Arduino module.LibPkg
